@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1571582494938'); /* IE9 */
+  src: url('iconfont.eot?t=1571582494938#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPoAAsAAAAACEgAAAOcAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqDeIM5ATYCJAMQCwoABCAFhG0HUxs2B8gOJUHBwIDRAQlAPPStoX9u5y4bQpUCoGJUVVUExlQiKM8yz5clgRGZzKkKURFVYnAyINeRU4ecUzRgZ0AEr93e/eN+8qJwYPns21yiWjPPR7sBjqJ1QNElMt6EcYvs3pKuQG4m0GeuZKJ9tc3dQCnhXoG4zplooMxoZQM5VEVXMTHFAzK1udncAdwPfh//ZYaSRlvgrU5drDGC8l/h3wZKhFnBoOIiTGeGMo2C1YAkLldaz5JE3tUk+qzmUlsBVdUwVU3it4F9fcA/irSSvzwaoRAdHD8ANoOv8CucITT8SkQIfg2UeUhMdq/o8BQAHwE3fXQKsVCrHdzmNfbJl27hKbV0+/Jlfs+eiZ7/Njz9ShXdS5YISzWZZs++GXWzn7uWqbW3rFTKUtChWFOy8Ngn3Qeedh+7FL458pk+QghYU3P0achTikotuszl//y5/tlzw/OP1M6D4Am1ck/0neZudVCU67nheFDY6qCxO4V4I+KPOjMrkd3lSjLtng0lwmcZhLIX16mLLQ0InHHX11e2HGKk16tyBvlSWXPG8QkvvE6rurFIm/nwSOYJ5enR00pPrXgtS8dSLLA/vqYq4wifIOfrv2l9U+bk+Y9uT3ovTi9MmhE+x00zHRQfcjW/QifZp6jzWLq4cyb9O1QHzuTJnoFycn3PkvAdEdlD9XxuXpjoTtyuowYcuT7FoJvZlqdkJ3a1eAdKA72lYP07W0RuxCLcaGFkTk1u5PnzXjlefFhELnAAmBUSlBuBZ195U0ZmSQVOFiFYMtl/41D34v9V84BZXx4tDgPBMN5f4nXm/U5ex5S0BViXaQoZ17Glg6kwDfqIgZ8YZMy7KeSTnd2EmuEp0OgxB4pqMSpxq6HVbzN0qp3QZ5W66f3GYRKRvVhpKoIwYj80hryFYsRdVOLeQmvKX+iMhAT6nA7vBfstDU5dhRFNkBH2jIYcw9tZaiDqMLETmYZbaZwWBBQ9wk7OATNS0/OBOmRHeIohzhGmTEJYyGLeBmvRdshq5aED82bEkNReQhyFaWls1ZtSGd4G1PbCEBqBGEE9RoM4DJ4d62Um1IXvd0JMhrOi4YakFrMegjlx9UMZUqV3QNVJ7Z2SbuUapxFMMhEEC2JhPBuoFpkRK/HyIEd1OzOEQaTqHeB2KJQG6diu0tTl5bY3XAR98IiMJkpktEaPVQ09+2OG2pB9+FArZ0cqhsbGlF6EeVUlzVh6rFwDAA==') format('woff2'),
+  url('iconfont.woff?t=1571582494938') format('woff'),
+  url('iconfont.ttf?t=1571582494938') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1571582494938#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  /* font-size: 16px; */
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-LC_icon_menu_line:before {
+  content: "\e62a";
+}
+
+.icon-card-hero:before {
+  content: "\e61f";
+}
+
+.icon-Backblack:before {
+  content: "\e65b";
+}
+
